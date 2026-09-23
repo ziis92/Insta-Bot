@@ -2,8 +2,8 @@
   "botName": "InstaBOT",
   "prefix": "-",
   "language": "en",
-  "adminBot": [],
-  "nickNameOnStart": "InstaBOT",
+  "adminBot": [80744921984],
+  "nickNameOnStart": "Nexus-BOT",
   "env": {
     "token": "chat.api.toke.neokex.ica.token.can.change.a9y.2ime.ok",
     "url": "https://nkx-ica.neokex.xyz",
